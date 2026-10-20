@@ -1,4 +1,5 @@
 {
+  // 皮果英语：纯静态网站，部署到 Cloudflare Workers
   "name": "pipo-site",
   "compatibility_date": "2025-09-01",
   "assets": {
